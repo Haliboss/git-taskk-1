@@ -1,0 +1,1 @@
+print(forklama ve deneme)
